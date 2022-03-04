@@ -9,5 +9,8 @@ public class Program {
 
         System.out.println("Modificando git apos pull ");
 
+        System.out.println("Modificando git apos push ");
+
+
     }
 }
